@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inna-rieznik
 - 👀 I’m interested in progrmming
-<--- 🌱 I’m currently learning ReactJS
+<!--- 🌱 I’m currently learning ReactJS
 --- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
