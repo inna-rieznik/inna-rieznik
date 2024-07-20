@@ -111,7 +111,7 @@ I'm currently deepening my expertise in security testing. I'm actively exploring
 <a href="https://www.linkedin.com/in/inna-rieznik/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=linkedin style="margin-bottom: 5px;" />
+<a href="mailto:rieznikinna@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>  
