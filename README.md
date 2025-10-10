@@ -7,9 +7,9 @@ Hey there, I'm Inna!
 
 </div>
 
-I'm a dedicated **QA Engineer** with a **Bachelor's degree in Automation Control and Informatics**, providing a solid technical foundation. With over 2.5 years of experience in software testing, I have developed a keen eye for detail and a commitment to ensuring exceptional product quality. My career has been characterized by continuous learning and growth.
+I'm a dedicated **QA Engineer** with a **Bachelor's degree in Automation Control and Informatics**, providing a solid technical foundation. With 4 years of experience in software testing, I have developed a keen eye for detail and a commitment to ensuring exceptional product quality. My career has been characterized by continuous learning and growth.
 
-In my work I utilazed technologies such as **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **Cypress**, **SQL**.
+In my work I utilazed technologies such as **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **Cypress**, **Playwright**, **SQL**.
 
 I am also well-versed in **Agile** and **Scrum** methodologies.
 
